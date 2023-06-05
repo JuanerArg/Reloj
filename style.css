@@ -1,0 +1,26 @@
+*{
+    background-color: black;
+}
+body {
+    margin-top: 160px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+  }
+  
+  h1 {
+    color: greenyellow;
+  }
+  
+  #clock {
+    font-size: 4em;
+    color: greenyellow;
+  }
+  
+  #date {
+    font-size: 2em;
+    color: greenyellow;
+  }
